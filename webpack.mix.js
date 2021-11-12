@@ -2,7 +2,7 @@ const mix = require('laravel-mix');
 
 mix.setPublicPath('./');
 
-mix.postCss('./source/css/mu-starter-plugin.css', 'css/mu-starter-plugin.css', [
+mix.postCss('./source/css/mu-azindex.css', 'css/mu-azindex.css', [
     require('postcss-import'),
     require('postcss-nesting'),
     require('tailwindcss'),

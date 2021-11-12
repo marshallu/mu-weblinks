@@ -1,0 +1,2057 @@
+[
+	{
+	  "LinkName": "Official MU Athletics Site (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Academic Affairs",
+	  "LinkUrl": "https://www.marshall.edu/academic-affairs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Accounting, Office of",
+	  "LinkUrl": "https://www.marshall.edu/accounting/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Admissions",
+	  "LinkUrl": "https://www.marshall.edu/admissions/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Bursar/Student Financial Systems",
+	  "LinkUrl": "https://www.marshall.edu/bursar/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Career Services",
+	  "LinkUrl": "https://www.marshall.edu/career-services/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Development, Office of",
+	  "LinkUrl": "http://www.marshall.edu/foundation/images-home/contact.php",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Department of Internal Audit",
+	  "LinkUrl": "https://www.marshall.edu/diraudit/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Equity Programs",
+	  "LinkUrl": "https://www.marshall.edu/eeoaa/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Finance Information Technology",
+	  "LinkUrl": "https://www.marshall.edu/fit/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Grant and Contract Development",
+	  "LinkUrl": "https://www.marshall.edu/murc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Human Resource Services",
+	  "LinkUrl": "https://www.marshall.edu/human-resources/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Identification Office",
+	  "LinkUrl": "https://www.marshall.edu/campusid/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Information Technology",
+	  "LinkUrl": "https://www.marshall.edu/it/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Institutional Research & Planning",
+	  "LinkUrl": "https://www.marshall.edu/irp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MUPD, Public Safety",
+	  "LinkUrl": "https://www.marshall.edu/mupd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Senior Vice President for Operations",
+	  "LinkUrl": "https://www.marshall.edu/svpadmin/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Orientation",
+	  "LinkUrl": "https://www.marshall.edu/orientation/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Physical Plant",
+	  "LinkUrl": "https://www.marshall.edu/physplant/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Purchasing, Office of",
+	  "LinkUrl": "https://www.marshall.edu/purchasing/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "President's Office",
+	  "LinkUrl": "https://www.marshall.edu/president/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Affairs",
+	  "LinkUrl": "https://www.marshall.edu/student-affairs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Financial Assistance",
+	  "LinkUrl": "https://www.marshall.edu/sfa/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Budget Office",
+	  "LinkUrl": "https://www.marshall.edu/finance/budget/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Classified Staff Council",
+	  "LinkUrl": "https://www.marshall.edu/staff-council/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Graduate Council",
+	  "LinkUrl": "https://www.marshall.edu/graduate-council/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Information Technology Council",
+	  "LinkUrl": "https://www.marshall.edu/itc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Multicultural Affairs",
+	  "LinkUrl": "https://www.marshall.edu/mcip/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Business",
+	  "LinkUrl": "https://www.marshall.edu/cob/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Health Professions",
+	  "LinkUrl": "https://www.marshall.edu/cohp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Science",
+	  "LinkUrl": "https://www.marshall.edu/cos/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Graduate College",
+	  "LinkUrl": "https://www.marshall.edu/graduate/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Extended Education",
+	  "LinkUrl": "https://www.marshall.edu/see/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Engineering and Computer Sciences",
+	  "LinkUrl": "https://www.marshall.edu/cecs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Journalism & Mass Comm",
+	  "LinkUrl": "https://www.marshall.edu/sojmc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Medicine",
+	  "LinkUrl": "http://musom.marshall.edu",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "University College",
+	  "LinkUrl": "https://www.marshall.edu/uc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Adult & Continuing Education",
+	  "LinkUrl": "https://www.marshall.edu/graduate/programs/adult-and-technical-education/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Athletic Administration",
+	  "LinkUrl": "https://www.marshall.edu/sports/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Biological Sciences",
+	  "LinkUrl": "https://www.marshall.edu/biology/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Herpetology",
+	  "LinkUrl": "https://www.marshall.edu/herp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Chemistry",
+	  "LinkUrl": "https://www.marshall.edu/chemistry/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Classical Studies",
+	  "LinkUrl": "https://www.marshall.edu/classical-studies/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Communication Studies",
+	  "LinkUrl": "https://www.marshall.edu/commstu/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Criminal Justice",
+	  "LinkUrl": "https://www.marshall.edu/criminal-justice/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "English",
+	  "LinkUrl": "https://www.marshall.edu/english/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Engineering & Computer Science",
+	  "LinkUrl": "https://www.marshall.edu/cite/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Applied Science & Technology",
+	  "LinkUrl": "https://www.marshall.edu/cite/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Geology",
+	  "LinkUrl": "https://www.marshall.edu/geology/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Geography",
+	  "LinkUrl": "https://www.marshall.edu/geography/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "History",
+	  "LinkUrl": "https://www.marshall.edu/history/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Mathematics",
+	  "LinkUrl": "https://www.marshall.edu/math/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Modern Languages",
+	  "LinkUrl": "https://www.marshall.edu/language/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Military Science",
+	  "LinkUrl": "https://www.marshall.edu/rotc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Philosophy",
+	  "LinkUrl": "https://www.marshall.edu/philosophy/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Physics",
+	  "LinkUrl": "https://www.marshall.edu/physics/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Political Science",
+	  "LinkUrl": "https://www.marshall.edu/polsci/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Psychology",
+	  "LinkUrl": "https://www.marshall.edu/psych/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sociology and Anthropology",
+	  "LinkUrl": "https://www.marshall.edu/dosa/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sports Management and Marketing",
+	  "LinkUrl": "https://www.marshall.edu/sports/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Women's Studies",
+	  "LinkUrl": "https://www.marshall.edu/womenstu/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MILO",
+	  "LinkUrl": "https://www.marshall.edu/milo/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Course Listings",
+	  "LinkUrl": "https://mubert.marshall.edu/scheduleofcourses.php",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "MUOnline",
+	  "LinkUrl": "https://www.marshall.edu/muonline/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Undergraduate Catalog",
+	  "LinkUrl": "https://www.marshall.edu/catalog/undergraduate-catalogs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Academic Advising Center",
+	  "LinkUrl": "https://www.marshall.edu/uc/advising",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Academic Calendar",
+	  "LinkUrl": "https://www.marshall.edu/calendar/academic/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Bookstore",
+	  "LinkUrl": "http://www.marshall.bkstr.com/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Honors College",
+	  "LinkUrl": "https://www.marshall.edu/honors/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "H.E.L.P. Program",
+	  "LinkUrl": "https://www.marshall.edu/help/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "John Deaver Drinko Academy",
+	  "LinkUrl": "https://www.marshall.edu/drinko/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Tutoring Services",
+	  "LinkUrl": "https://www.marshall.edu/uc/tutoring-services/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Writing Center",
+	  "LinkUrl": "https://www.marshall.edu/writingcenter/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Yeager Scholars",
+	  "LinkUrl": "https://www.marshall.edu/yeager/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "myMU",
+	  "LinkUrl": "https://www.marshall.edu/myMU/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Center for International Programs",
+	  "LinkUrl": "https://www.marshall.edu/cip/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MU Alumni Association",
+	  "LinkUrl": "https://www.marshall.edu/alumni/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "L.E.A.P. Intensive English Program",
+	  "LinkUrl": "https://www.marshall.edu/leap/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Parthenon",
+	  "LinkUrl": "http://www.marshallparthenon.com/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "WMUL Radio",
+	  "LinkUrl": "https://www.marshall.edu/wmul/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Nick J. Rahall II Appalachian Transportation Institute",
+	  "LinkUrl": "https://www.marshall.edu/ati/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Calendar of Events",
+	  "LinkUrl": "https://www.marshall.edu/calendar/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall Community",
+	  "LinkUrl": "https://www.marshall.edu/community/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Athletic Ticket Office (External Link)",
+	  "LinkUrl": "https://ev12.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=MU&linkID=marshall&shopperContext=&caller=&appCode=",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Robert C. Byrd Institute",
+	  "LinkUrl": "http://www.rcbi.org/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Marching Thunder",
+	  "LinkUrl": "https://www.marshall.edu/band/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "M-Club",
+	  "LinkUrl": "https://www.marshall.edu/goherd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall Artists Series",
+	  "LinkUrl": "https://www.marshall.edu/muartser/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall University Foundation, The",
+	  "LinkUrl": "https://www.marshall.edu/foundation/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "University Communications",
+	  "LinkUrl": "https://www.marshall.edu/ucomm/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MU Report",
+	  "LinkUrl": "https://www.marshall.edu/sojmc",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Greater Huntington Park & Rec District",
+	  "LinkUrl": "http://www.ghprd.org/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Instructional Television & Video Services",
+	  "LinkUrl": "https://www.marshall.edu/itvs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall Technology Outreach Center",
+	  "LinkUrl": "https://www.marshall.edu/mtoc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Banner",
+	  "LinkUrl": "https://www.marshall.edu/banner/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Personal Webpages",
+	  "LinkUrl": "http://webpages.marshall.edu/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Main Campus Map",
+	  "LinkUrl": "https://www.marshall.edu/campus/map.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Teays Valley Regional Center",
+	  "LinkUrl": "https://www.marshall.edu/tvrc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MOVC Web Site",
+	  "LinkUrl": "https://www.marshall.edu/movc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Online Payment",
+	  "LinkUrl": "https://www.marshall.edu/bursar/tuition-payment/payment-options/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Drinko Library",
+	  "LinkUrl": "https://www.marshall.edu/drinkolib/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Libraries Homepage",
+	  "LinkUrl": "https://www.marshall.edu/library/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Health Science Libraries",
+	  "LinkUrl": "http://musom.marshall.edu/library/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Off-Campus Library Services",
+	  "LinkUrl": "https://www.marshall.edu/library/services/off-campus_services.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Buck Harless Student-Athlete Program",
+	  "LinkUrl": "http://herdzone.cstv.com/buck/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Center for African American Students",
+	  "LinkUrl": "https://www.marshall.edu/caas/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Catholic Newman Center",
+	  "LinkUrl": "https://www.marshall.edu/catholic-center/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Counseling Services",
+	  "LinkUrl": "https://www.marshall.edu/counseling/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Disabled Student Services",
+	  "LinkUrl": "https://www.marshall.edu/disabled/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Lesbian Gay Bisexual Outreach",
+	  "LinkUrl": "https://www.marshall.edu/lgbo/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Memorial Student Center",
+	  "LinkUrl": "https://www.marshall.edu/msc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Activities",
+	  "LinkUrl": "https://www.marshall.edu/student-activities/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Women's Center",
+	  "LinkUrl": "https://www.marshall.edu/wcenter/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Recreational Sports",
+	  "LinkUrl": "https://www.marshall.edu/recsport/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Alpha Phi Omega",
+	  "LinkUrl": "https://www.marshall.edu/apo/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Alpha Chi Sigma Chemistry Fraternity",
+	  "LinkUrl": "https://www.marshall.edu/axsigma/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Campus Crusade for Christ",
+	  "LinkUrl": "https://www.marshall.edu/ccchrist",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Alpha Kappa Psi",
+	  "LinkUrl": "https://www.marshall.edu/akpsi/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Alpha Tau Omega",
+	  "LinkUrl": "https://www.marshall.edu/ato/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Pi Kappa Phi",
+	  "LinkUrl": "https://www.marshall.edu/pkp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sigma Alpha Epsilon",
+	  "LinkUrl": "https://www.marshall.edu/sae/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sigma Phi Epsilon",
+	  "LinkUrl": "https://www.marshall.edu/spe/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sigma Tau Gamma",
+	  "LinkUrl": "https://www.marshall.edu/sigtau/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sigma Xi - Science Research",
+	  "LinkUrl": "https://www.marshall.edu/sigmaxi/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Gamma Beta Phi",
+	  "LinkUrl": "https://www.marshall.edu/gbp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Kappa Delta Phi Honor Society",
+	  "LinkUrl": "https://www.marshall.edu/kappa/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "NSSLHA",
+	  "LinkUrl": "https://www.marshall.edu/nsslha/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Outdoor Adventure Club",
+	  "LinkUrl": "https://www.marshall.edu/oac/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Alpha Xi Delta",
+	  "LinkUrl": "https://www.marshall.edu/fsl/alphaxidelta/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Delta Zeta",
+	  "LinkUrl": "https://www.marshall.edu/fsl/deltazeta/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Fraternities",
+	  "LinkUrl": "https://www.marshall.edu/fsl/fraternities/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sororities",
+	  "LinkUrl": "https://www.marshall.edu/fsl/sororities/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Government Association",
+	  "LinkUrl": "https://www.marshall.edu/sga/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Employee Benefits",
+	  "LinkUrl": "https://www.marshall.edu/human-resources/benefits/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Employment Opportunities",
+	  "LinkUrl": "https://www.marshall.edu/human-resources/job-opportunities/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "HR Online Forms",
+	  "LinkUrl": "https://www.marshall.edu/human-resources/forms/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Classified Staff Handbook",
+	  "LinkUrl": "https://www.marshall.edu/human-resources/files/Marshall-University-Classified-Staff-Handbook.pdf",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Employment Policies",
+	  "LinkUrl": "https://www.marshall.edu/human-resources/hr-services-policies-and-procedures/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Library User Education",
+	  "LinkUrl": "https://www.marshall.edu/library/services/instruction.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MU Research Corporation",
+	  "LinkUrl": "https://www.marshall.edu/murc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Higher Education Policy Commission",
+	  "LinkUrl": "http://www.hepc.wvnet.edu/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Gillette Welcome Center & Campus Tours",
+	  "LinkUrl": "https://www.marshall.edu/recruitment/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Undergraduate Admissions Application",
+	  "LinkUrl": "https://www.marshall.edu/admissions/apply/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Undergrad Admissions Requirements",
+	  "LinkUrl": "https://www.marshall.edu/admissions/undergraduate/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Baseball (External Link)",
+	  "LinkUrl": "https://herdzone.com/index.aspx?path=baseball",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Basketball, Men's (External Link)",
+	  "LinkUrl": "https://herdzone.com/index.aspx?path=mbball",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Cross Country (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/c-xc/mars-c-xc-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Football (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/m-footbl/mars-m-footbl-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Golf, Men's (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/m-golf/mars-m-golf-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Soccer, Men's (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/m-soccer/mars-m-soccer-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Track & Field (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-track/mars-w-track-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Basketball, Women's (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-baskbl/mars-w-baskbl-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Golf, Women's (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-golf/mars-w-golf-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Soccer, Women's (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-soccer/mars-w-soccer-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Softball (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-softbl/mars-w-softbl-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Tennis (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-tennis/mars-w-tennis-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Volleyball (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-volley/mars-w-volley-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Swimming (Women) (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/sports/w-swim/mars-w-swim-body.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Cheerleading (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/ot/mars-cheer.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Contact the Coaches (External Link)",
+	  "LinkUrl": "http://herdzone.cstv.com/staffdir/mars-staffdir.html",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Conference USA (External Link)",
+	  "LinkUrl": "http://conferenceusa.cstv.com/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "National Collegiate Athletic Association",
+	  "LinkUrl": "http://www.ncaa.org/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Thundering Herd Kids' Club",
+	  "LinkUrl": "https://herdzone.com/sports/2018/6/11/kidsclub.aspx",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Marshall Strategic Vision",
+	  "LinkUrl": "https://www.marshall.edu/strategic/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Accreditation",
+	  "LinkUrl": "https://www.marshall.edu/landing/about/accreditation.html",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall University History",
+	  "LinkUrl": "https://www.marshall.edu/muhistory/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Center for Business & Economic Research",
+	  "LinkUrl": "https://www.marshall.edu/cber/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "CEGAS",
+	  "LinkUrl": "https://www.marshall.edu/cegas/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "CSEGA",
+	  "LinkUrl": "https://www.marshall.edu/csega/index.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "EBSCO Host",
+	  "LinkUrl": "http://ezproxy.marshall.edu:2048/login?url=http://search.epnet.com",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Ask a Librarian",
+	  "LinkUrl": "https://www.marshall.edu/library/services/ask.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Libraries, Collections, & Services",
+	  "LinkUrl": "https://www.marshall.edu/library/libraries/libraries.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Electronic Database Listing",
+	  "LinkUrl": "https://www.marshall.edu/library/databases.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Library Services for Faculty",
+	  "LinkUrl": "https://www.marshall.edu/library/information/facultystaff.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "What's New at the Libraries",
+	  "LinkUrl": "https://www.marshall.edu/library/news/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Freshman Admissions",
+	  "LinkUrl": "https://www.marshall.edu/admissions/freshmen/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Graduate Admissions",
+	  "LinkUrl": "https://www.marshall.edu/graduate/applynow.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Transfer Admissions",
+	  "LinkUrl": "https://www.marshall.edu/admissions/transfer-students/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Early Entrance Policy",
+	  "LinkUrl": "https://www.marshall.edu/admissions/early-admission-options/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Faculty Achievement Database",
+	  "LinkUrl": "https://www.marshall.edu/senate/achieve/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Liberal Arts",
+	  "LinkUrl": "https://www.marshall.edu/cola/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Printing Services",
+	  "LinkUrl": "https://www.marshall.edu/printing/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Facilities Scheduling Office",
+	  "LinkUrl": "https://www.marshall.edu/msc/home/facilities-scheduling/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Journal of Rural Commuity Psych",
+	  "LinkUrl": "https://www.marshall.edu/jrcp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Electronic Theses & Dissertations",
+	  "LinkUrl": "https://www.marshall.edu/etd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Office of Research Integrity",
+	  "LinkUrl": "https://www.marshall.edu/ori/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Regents Bachelor of Arts Degree",
+	  "LinkUrl": "https://www.marshall.edu/rba/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Forensic Science Center",
+	  "LinkUrl": "http://forensics.marshall.edu/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "MU Society of Poets (MUSOP)",
+	  "LinkUrl": "https://www.marshall.edu/societyofpoets/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Story of Old Main - Virtual Museum",
+	  "LinkUrl": "https://www.marshall.edu/library/speccoll/virtual_museum/old_main/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Library Associates",
+	  "LinkUrl": "https://www.marshall.edu/library/information/associates.asp",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MU Student Ambassadors",
+	  "LinkUrl": "https://www.marshall.edu/musa/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Housing",
+	  "LinkUrl": "https://www.marshall.edu/housing/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Dining Services",
+	  "LinkUrl": "http://www.marshalldining.com",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "WV Prevention Resource Center (External Link)",
+	  "LinkUrl": "http://prc.hsc.wvu.edu/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Service Learning Program",
+	  "LinkUrl": "https://www.marshall.edu/srvlearn",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Athletics Hall of Fame (External Link)",
+	  "LinkUrl": "https://herdzone.com/hof.aspx",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Parent Resources",
+	  "LinkUrl": "https://www.marshall.edu/parents/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Lambda Alpha Epsilon",
+	  "LinkUrl": "https://www.marshall.edu/criminal-justice/lae/LAEAO.HTM",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Organizations",
+	  "LinkUrl": "https://www.marshall.edu/student-activities/organizations/organizations/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Personal Purchase (Computing)",
+	  "LinkUrl": "https://www.marshall.edu/personalpurchase/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sights and Sounds at Marshall University",
+	  "LinkUrl": "https://www.marshall.edu/sightsnsounds/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Health and Safety",
+	  "LinkUrl": "https://www.marshall.edu/safety/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Board of Governors",
+	  "LinkUrl": "https://www.marshall.edu/board/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Future Students Information",
+	  "LinkUrl": "https://www.marshall.edu/futurestudents/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Assessment",
+	  "LinkUrl": "https://www.marshall.edu/assessment/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Campus Flood",
+	  "LinkUrl": "http://www.campusflood.org",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "We Are...Marshall Newsletter",
+	  "LinkUrl": "https://www.marshall.edu/wamnewsletter/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Fellowship of Christian Athletes",
+	  "LinkUrl": "https://www.marshall.edu/fca/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Cell Differentiation and Development",
+	  "LinkUrl": "https://www.marshall.edu/cddc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Greek Affairs",
+	  "LinkUrl": "https://www.marshall.edu/fsl/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "John Marshall Emerging Leaders Institute (JMELI)",
+	  "LinkUrl": "https://www.marshall.edu/jmeli",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Health",
+	  "LinkUrl": "https://www.marshall.edu/studenthealth/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Health Education",
+	  "LinkUrl": "https://www.marshall.edu/shep",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Financial Aid",
+	  "LinkUrl": "https://www.marshall.edu/sfa/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Advising",
+	  "LinkUrl": "https://www.marshall.edu/src/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall Institute for Interdisciplinary Research",
+	  "LinkUrl": "https://www.marshall.edu/miir/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Center for Teaching and Learning",
+	  "LinkUrl": "https://www.marshall.edu/catl/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Finance",
+	  "LinkUrl": "https://www.marshall.edu/finance/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Resource Center",
+	  "LinkUrl": "https://www.marshall.edu/src/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Connected@MU",
+	  "LinkUrl": "https://www.marshall.edu/connected/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Degree Works",
+	  "LinkUrl": "https://www.marshall.edu/degreeworks/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Military and Veterans' Affairs",
+	  "LinkUrl": "https://www.marshall.edu/military/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Appalachian Collaborative Center for Learning, Assessment, and Instruction in Mathematics",
+	  "LinkUrl": "https://www.marshall.edu/aamte/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Antivirus Protection",
+	  "LinkUrl": "https://www.marshall.edu/infosec/antivirus-protection/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Informaction Security",
+	  "LinkUrl": "https://www.marshall.edu/infosec/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall University Marching Thunder Band",
+	  "LinkUrl": "https://www.marshall.edu/band/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Bachelors of Applied Sciences",
+	  "LinkUrl": "https://www.marshall.edu/bas/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Brain Awareness Program",
+	  "LinkUrl": "https://www.marshall.edu/baw/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "IT Knowledge Base",
+	  "LinkUrl": "https://www.marshall.edu/kb/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Campus ID Office",
+	  "LinkUrl": "https://www.marshall.edu/campusid/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall University Campus Card Site",
+	  "LinkUrl": "https://www.marshall.edu/cardaccounts/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Carter Woodson Project",
+	  "LinkUrl": "https://www.marshall.edu/carterwoodson/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Child Development Academy",
+	  "LinkUrl": "https://www.marshall.edu/cda/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Nutrition and Cancer Center",
+	  "LinkUrl": "https://www.marshall.edu/cncc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Commencement Ceremonies",
+	  "LinkUrl": "https://www.marshall.edu/commencement/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Science Instructional Technology (IT) Center",
+	  "LinkUrl": "https://www.marshall.edu/cositc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Science Student Services",
+	  "LinkUrl": "https://www.marshall.edu/cosstudentservices/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Dine and Discover",
+	  "LinkUrl": "https://www.marshall.edu/dineanddiscover/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Environmental Science",
+	  "LinkUrl": "https://www.marshall.edu/es/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Guest Equipment Management System",
+	  "LinkUrl": "https://www.marshall.edu/gems/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Go Green Licensing Information",
+	  "LinkUrl": "https://www.marshall.edu/gogreen/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Human Engineering Lab",
+	  "LinkUrl": "https://www.marshall.edu/hel/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Homecoming",
+	  "LinkUrl": "https://www.marshall.edu/homecoming/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Jazz Studies",
+	  "LinkUrl": "https://www.marshall.edu/music/jazz-studies/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Refer a Friend to MU",
+	  "LinkUrl": "https://www.marshall.edu/jointheherd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Lynda.com Training",
+	  "LinkUrl": "https://www.marshall.edu/lynda/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall Magazine",
+	  "LinkUrl": "http://www.marshallmagazine.com/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "MU Mobile",
+	  "LinkUrl": "https://www.marshall.edu/mumobile/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MUNET Account Lookup",
+	  "LinkUrl": "https://www.marshall.edu/munetlookup/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Net Price Calculator",
+	  "LinkUrl": "https://marshall.studentaidcalculator.com/survey.aspx",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "College of Arts and Media",
+	  "LinkUrl": "https://www.marshall.edu/cam/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Campus Video Tour",
+	  "LinkUrl": "https://www.marshall.edu/videotours/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall 20/20",
+	  "LinkUrl": "https://www.marshall.edu/2020/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall University Official History",
+	  "LinkUrl": "https://www.marshall.edu/muhistory/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Office of Institutional Research and Planning",
+	  "LinkUrl": "https://www.marshall.edu/irp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Mission Statement",
+	  "LinkUrl": "https://www.marshall.edu/mission/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Week of Welcome",
+	  "LinkUrl": "https://www.marshall.edu/wow/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Quick Facts",
+	  "LinkUrl": "https://www.marshall.edu/home/quick-facts",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Tuition Information",
+	  "LinkUrl": "https://www.marshall.edu/bursar/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Career and Professional Development",
+	  "LinkUrl": "https://www.marshall.edu/career-services/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Online Learning",
+	  "LinkUrl": "https://www.marshall.edu/muonline/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Graduate Catalog",
+	  "LinkUrl": "https://www.marshall.edu/catalog/graduate-catalogs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Consumer Information and Disclosures",
+	  "LinkUrl": "https://www.marshall.edu/disclosures/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College Courses in the High Schools",
+	  "LinkUrl": "https://www.marshall.edu/cchs",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Degree Programs",
+	  "LinkUrl": "https://www.marshall.edu/academics/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Undergraduate Degree Programs",
+	  "LinkUrl": "https://www.marshall.edu/academics/undergraduate",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Course Catalogs",
+	  "LinkUrl": "https://www.marshall.edu/catalog/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Research",
+	  "LinkUrl": "https://www.marshall.edu/murc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Maps and Directions",
+	  "LinkUrl": "https://www.marshall.edu/campus/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Recreation Center",
+	  "LinkUrl": "https://www.marshall.edu/campusrec/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sustainability",
+	  "LinkUrl": "https://www.marshall.edu/sustainability/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Center",
+	  "LinkUrl": "https://www.marshall.edu/msc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Public Safety",
+	  "LinkUrl": "https://www.marshall.edu/mupd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Parking and Transportation, Office of",
+	  "LinkUrl": "https://www.marshall.edu/parking/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Bucks for Brains",
+	  "LinkUrl": "https://www.marshall.edu/b4b/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Technology Transfer Office",
+	  "LinkUrl": "https://www.marshall.edu/tto/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Study Abroad",
+	  "LinkUrl": "https://www.marshall.edu/study-abroad/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Teach in China Program",
+	  "LinkUrl": "https://www.marshall.edu/gochina/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Registrar",
+	  "LinkUrl": "https://www.marshall.edu/registrar/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Emergency Notification System",
+	  "LinkUrl": "https://www.marshall.edu/emergency/mualert/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MU Alert",
+	  "LinkUrl": "https://www.marshall.edu/emergency/mualert/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College Program for Students with Autism Spectrum Disorder",
+	  "LinkUrl": "https://www.marshall.edu/collegeprogram/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Transcripts",
+	  "LinkUrl": "https://www.marshall.edu/registrar/transcripts/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Band",
+	  "LinkUrl": "https://www.marshall.edu/band/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Outlook Web Access",
+	  "LinkUrl": "https://outlookweb.marshall.edu/owa",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Administrative Procedures",
+	  "LinkUrl": "https://www.marshall.edu/adminproc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Autism Training Center",
+	  "LinkUrl": "https://www.marshall.edu/atc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Biomedical Sciences Graduate Program",
+	  "LinkUrl": "https://www.marshall.edu/bms/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Summer Bridge Program",
+	  "LinkUrl": "https://www.marshall.edu/bridge/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Classics Department",
+	  "LinkUrl": "https://www.marshall.edu/classical-studies/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Community Engagement",
+	  "LinkUrl": "https://www.marshall.edu/community-engagement/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Social Media",
+	  "LinkUrl": "https://www.marshall.edu/connected/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Community of Research Practice",
+	  "LinkUrl": "https://www.marshall.edu/corp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Doctor of Education Degree",
+	  "LinkUrl": "https://www.marshall.edu/edd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Financial Aid Training Materials",
+	  "LinkUrl": "https://www.marshall.edu/fatraining/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Forensic Science Graduate Program",
+	  "LinkUrl": "https://www.marshall.edu/forensics/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Fraternity and Sorority Life",
+	  "LinkUrl": "https://www.marshall.edu/fsl/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "General Education",
+	  "LinkUrl": "https://www.marshall.edu/gened/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Graduate Humanities Program",
+	  "LinkUrl": "https://www.marshall.edu/graduatehumanities/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Green Fridays",
+	  "LinkUrl": "https://www.marshall.edu/greenfridays/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Graduate Student Council",
+	  "LinkUrl": "https://www.marshall.edu/gsc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Graduate Studies at the College of Education and Professional Development",
+	  "LinkUrl": "https://www.marshall.edu/gsepd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "HLC Open Pathways Demonstration Project",
+	  "LinkUrl": "https://www.marshall.edu/hlcopenpathways/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Information Technology Service Desk",
+	  "LinkUrl": "https://www.marshall.edu/inforesources/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Help Desk",
+	  "LinkUrl": "https://www.marshall.edu/inforesources/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Service Desk",
+	  "LinkUrl": "https://www.marshall.edu/inforesources/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Louis Stokes Alliance for Minority Participation",
+	  "LinkUrl": "https://www.marshall.edu/lsamp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Campus Mail Services",
+	  "LinkUrl": "https://www.marshall.edu/mailservices/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Medical H.E.L.P. Program",
+	  "LinkUrl": "https://www.marshall.edu/medhelp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Ambassadors",
+	  "LinkUrl": "https://www.marshall.edu/musa/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MUSC Library",
+	  "LinkUrl": "https://www.marshall.edu/musclibrary/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "myBuy",
+	  "LinkUrl": "https://www.marshall.edu/mybuy/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "New Student Checklist",
+	  "LinkUrl": "https://www.marshall.edu/newstudentchecklist/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Online College Courses in the High Schools (OCCHS)",
+	  "LinkUrl": "https://www.marshall.edu/occhs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Professional Education Unit",
+	  "LinkUrl": "https://www.marshall.edu/peu/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Pharmacy",
+	  "LinkUrl": "https://www.marshall.edu/pharmacy/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Presidential History",
+	  "LinkUrl": "https://www.marshall.edu/presidential-history/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Recruitment, Office of",
+	  "LinkUrl": "https://www.marshall.edu/recruitment/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "ROTC",
+	  "LinkUrl": "https://www.marshall.edu/rotc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Environmental Health and Safety",
+	  "LinkUrl": "https://www.marshall.edu/safety/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "South Charleston Campus",
+	  "LinkUrl": "https://www.marshall.edu/schas/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Environmental Action Coalition",
+	  "LinkUrl": "https://www.marshall.edu/seac/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "West Virginia Internet2 Consortium",
+	  "LinkUrl": "https://www.marshall.edu/segp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sexuality Studies",
+	  "LinkUrl": "https://www.marshall.edu/sexualitystu/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "SN-APP: Start Now ΓÇô Academic and Professional Planning",
+	  "LinkUrl": "https://www.marshall.edu/sn-app/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "IT Software Distribution and Licensing",
+	  "LinkUrl": "https://www.marshall.edu/software/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Simon Perry Center for Constitutional Democracy",
+	  "LinkUrl": "https://www.marshall.edu/spc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Support Services",
+	  "LinkUrl": "https://www.marshall.edu/sss/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Stormwater Management Program",
+	  "LinkUrl": "https://www.marshall.edu/stormwater/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Office of Student Conduct",
+	  "LinkUrl": "https://www.marshall.edu/student-conduct/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "TECI | Technology Enhanced Classroom Initiative",
+	  "LinkUrl": "https://www.marshall.edu/teci/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Trio Program",
+	  "LinkUrl": "https://www.marshall.edu/trio/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Upward Bound",
+	  "LinkUrl": "https://www.marshall.edu/ub/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "A.E. Stringer Visiting Writers Series",
+	  "LinkUrl": "https://www.marshall.edu/vws/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Visiting Writer Series",
+	  "LinkUrl": "https://www.marshall.edu/vws/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Online Branding Standards and Resources",
+	  "LinkUrl": "https://www.marshall.edu/webguide/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Electronic Branding Standards Manual",
+	  "LinkUrl": "https://www.marshall.edu/webguide/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "University Logos",
+	  "LinkUrl": "https://www.marshall.edu/webguide/university-logos/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Nursing",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/school-of-nursing/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Nursing",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/school-of-nursing/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Physical Therapy",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/school-of-physical-therapy/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Physical Therapy",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/school-of-physical-therapy/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Clinical Laboratory Science",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/clinical-lab-science/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Dietetics",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/dietetics/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Health Informatics",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/health-informatics/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Public Health",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/public-health/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Kinesiology",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/school-of-kinesiology/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Social Work",
+	  "LinkUrl": "https://www.marshall.edu/cohp/index.php/departments/social-work/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "St. Mary's Cooperative Programs",
+	  "LinkUrl": "https://www.marshall.edu/st-marys-cooperative-programs/st-marysmarshall-cooperative-programs/associate-of-science-in-nursing/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Applied Science B.A.S.",
+	  "LinkUrl": "https://www.marshall.edu/bas/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Computer Science",
+	  "LinkUrl": "https://www.marshall.edu/cecs/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Journalism and Mass Communications",
+	  "LinkUrl": "https://www.marshall.edu/sojmc/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Medical Imaging",
+	  "LinkUrl": "http://www.st-marys.org/education_training/center_for_education/school_of_medical_imaging/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Natural Resources and Recreation Management",
+	  "LinkUrl": "https://www.marshall.edu/isat/nrrm/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Information Provider Agreement",
+	  "LinkUrl": "https://www.marshall.edu/kb/online-information-providers-agreement/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Web Guide",
+	  "LinkUrl": "https://www.marshall.edu/webguide/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Event Calendar",
+	  "LinkUrl": "https://www.marshall.edu/calendar/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "President's Staff and Cabinet",
+	  "LinkUrl": "https://www.marshall.edu/president/presidents-staff-and-cabinet/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "News Releases",
+	  "LinkUrl": "https://www.marshall.edu/ucomm/current-news-releases/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Press Releases",
+	  "LinkUrl": "https://www.marshall.edu/ucomm/current-news-releases/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Photos",
+	  "LinkUrl": "http://muphotos.marshall.edu/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "University News and Announcements",
+	  "LinkUrl": "https://www.marshall.edu/ucomm/university-news-and-announcements/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Press Release Archive",
+	  "LinkUrl": "https://www.marshall.edu/ucomm/news-release-archives/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "14-Nov-70",
+	  "LinkUrl": "https://www.marshall.edu/special-collections/memorial/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Office 365 Email",
+	  "LinkUrl": "https://www.marshall.edu/it/office365/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "IT Services Catalog",
+	  "LinkUrl": "https://www.marshall.edu/it/services/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Be Herd",
+	  "LinkUrl": "https://www.marshall.edu/beherd/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "MUNet Accounts",
+	  "LinkUrl": "https://www.marshall.edu/it/departments/it-service-desk/munet-accounts/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Chronological List of Changes (CLOC)",
+	  "LinkUrl": "https://lists.marshall.edu/sympa/info/cloc/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Mailing List Server",
+	  "LinkUrl": "https://www.marshall.edu/lists/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Virtual Private Network (VPN)",
+	  "LinkUrl": "https://www.marshall.edu/it/departments/it-service-desk/network-wireless/#fndtn-efs-tabpane-1-4",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Wireless Connectivity",
+	  "LinkUrl": "https://www.marshall.edu/it/departments/it-service-desk/network-wireless/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "My Devices Portal: Set up a device on the campus network",
+	  "LinkUrl": "https://webcontent.marshall.edu/sites/inforesourcesweb/Public/MyDeviceInstructions.pdf",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Modular Messaging",
+	  "LinkUrl": "https://www.marshall.edu/inforesources/modular-messaging/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Personal Web Pages",
+	  "LinkUrl": "https://www.marshall.edu/inforesources/for-students/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Student Guide to IT",
+	  "LinkUrl": "https://www.marshall.edu/it/departments/it-service-desk/students/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Understanding MUNET Accounts",
+	  "LinkUrl": "https://www.marshall.edu/it/departments/it-service-desk/munet-accounts/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Wireless Setup Instructions",
+	  "LinkUrl": "https://www.marshall.edu/it/departments/it-service-desk/network-wireless/#fndtn-efs-tabpane-1-1",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "We Are Marshall Movie Links",
+	  "LinkUrl": "https://www.marshall.edu/movie/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Find Your Recruitment Coordinator",
+	  "LinkUrl": "https://www.marshall.edu/jointheherd/reccord.html",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Announcements",
+	  "LinkUrl": "https://www.marshall.edu/ucomm/university-news-and-announcements/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "News and Announcements",
+	  "LinkUrl": "https://www.marshall.edu/ucomm/university-news-and-announcements/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Campus Mailing Addresses",
+	  "LinkUrl": "https://www.marshall.edu/campus-mailing-addresses/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Mailing Address",
+	  "LinkUrl": "https://www.marshall.edu/campus-mailing-addresses/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Sons of Marshall",
+	  "LinkUrl": "https://www.marshall.edu/sons-of-marshall/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Special Education",
+	  "LinkUrl": "https://www.marshall.edu/cisp/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "BERT",
+	  "LinkUrl": "https://mubert.marshall.edu/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "MU BERT",
+	  "LinkUrl": "https://mubert.marshall.edu/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Jobtrax",
+	  "LinkUrl": "https://marshall-csm.symplicity.com/students/index.php",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Scholarships",
+	  "LinkUrl": "https://www.marshall.edu/sfa/types-of-aid/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "College of Education",
+	  "LinkUrl": "https://www.marshall.edu/coepd",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Marshall Society of Poets (MUSOP)",
+	  "LinkUrl": "https://www.marshall.edu/societyofpoets/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Lesbian, Gay, Bisexual Outreach (LGBT)",
+	  "LinkUrl": "https://www.marshall.edu/intercultural/lgbt-office/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Request an Event",
+	  "LinkUrl": "https://www.marshall.edu/scheduling/",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Wireless Coverage Map",
+	  "LinkUrl": "http://webcontent.marshall.edu/sites/itweb/Public/General_Info/wireless.pdf",
+	  "LinkExternal": 1
+	},
+	{
+	  "LinkName": "Computer and Information Technology",
+	  "LinkUrl": "https://www.marshall.edu/cit/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Natural Resources and Environment",
+	  "LinkUrl": "https://www.marshall.edu/nre/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Forensice Science and Digital Forensics",
+	  "LinkUrl": "https://www.marshall.edu/forensicsciences/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Art",
+	  "LinkUrl": "https://www.marshall.edu/art/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Art & Design",
+	  "LinkUrl": "https://www.marshall.edu/art/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Theatre",
+	  "LinkUrl": "https://www.marshall.edu/theatre/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Theatre",
+	  "LinkUrl": "https://www.marshall.edu/theatre/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Music",
+	  "LinkUrl": "https://www.marshall.edu/music/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "School of Music",
+	  "LinkUrl": "https://www.marshall.edu/music/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Intercultural Affairs",
+	  "LinkUrl": "https://www.marshall.edu/intercultural",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Travel",
+	  "LinkUrl": "https://www.marshall.edu/travel/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Edge",
+	  "LinkUrl": "https://www.marshall.edu/edge/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Rankings",
+	  "LinkUrl": "https://www.marshall.edu/rankings/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Catalogs",
+	  "LinkUrl": "https://www.marshall.edu/catalog/",
+	  "LinkExternal": 0
+	},
+	{
+	  "LinkName": "Alumni",
+	  "LinkUrl": "https://www.herdalum.com",
+	  "LinkExternal": 1
+	}
+  ]
