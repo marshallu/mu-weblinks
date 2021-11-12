@@ -9,7 +9,7 @@ if( function_exists('acf_add_local_field_group') ):
 			array(
 				'key' => 'field_618c300cada84',
 				'label' => 'Link URL',
-				'name' => 'mu_azindex_link_url',
+				'name' => 'mu_weblinks_link_url',
 				'type' => 'url',
 				'instructions' => '',
 				'required' => 0,
@@ -28,7 +28,7 @@ if( function_exists('acf_add_local_field_group') ):
 				array(
 					'param' => 'post_type',
 					'operator' => '==',
-					'value' => 'mu-weblink',
+					'value' => 'post',
 				),
 			),
 		),
@@ -40,6 +40,7 @@ if( function_exists('acf_add_local_field_group') ):
 		'hide_on_screen' => '',
 		'active' => true,
 		'description' => '',
+		'show_in_rest' => 0,
 	));
 
 	endif;

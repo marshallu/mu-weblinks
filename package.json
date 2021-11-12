@@ -1,5 +1,5 @@
 {
-  "name": "mu-starter-plugin",
+  "name": "mu-weblinks",
   "version": "1.0.0",
   "description": "",
   "main": "tailwind.config.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marshallu/mu-starter-plugin.git"
+    "url": "git+https://github.com/marshallu/mu-weblinks.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marshallu/mu-starter-plugin/issues"
+    "url": "https://github.com/marshallu/mu-weblinks/issues"
   },
-  "homepage": "https://github.com/marshallu/mu-starter-plugin#readme",
+  "homepage": "https://github.com/marshallu/mu-weblinks#readme",
   "devDependencies": {
     "@marshallu/marsha-tailwind": "^1.0.3",
     "laravel-mix": "^6.0.39"

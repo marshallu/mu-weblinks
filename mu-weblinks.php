@@ -1,12 +1,12 @@
 <?php
 /**
- * MU AZ Index
+ * MU Web Links
  *
  * This plugin is to manage and display Marshall University's A-Z Index
  *
- * @package  MU AZ Index
+ * @package  MU Web Links
  *
- * Plugin Name:  MU AZ Index
+ * Plugin Name:  MU Web Links
  * Plugin URI: https://www.marshall.edu
  * Description: This plugin is to manage and display Marshall University's A-Z Index
  * Version: 1.0
@@ -75,35 +75,35 @@ function mu_program_page_type() {
 /**
  * Flush rewrites whenever the plugin is activated.
  */
-function mu_azindex_activate() {
+function mu_weblinks_activate() {
 	flush_rewrite_rules();
 }
-register_activation_hook( __FILE__, 'mu_azindex_activate' );
+register_activation_hook( __FILE__, 'mu_weblinks_activate' );
 
 /**
  * Flush rewrites whenever the plugin is deactivated, also unregister 'mu-weblink' post type.
  */
-function mu_azindex_deactivate() {
+function mu_weblinks_deactivate() {
 	unregister_post_type( 'mu-weblink' );
 	flush_rewrite_rules();
 }
-register_activation_hook( __FILE__, 'mu_azindex_deactivate' );
+register_activation_hook( __FILE__, 'mu_weblinks_deactivate' );
 
 /**
  * Proper way to enqueue scripts and styles
  */
-function mu_azindex_plugin_scripts() {
-	wp_enqueue_style( 'mu-azindex', plugin_dir_url( __FILE__ ) . 'css/mu-azindex.css', '', true );
+function mu_weblinks_plugin_scripts() {
+	wp_enqueue_style( 'mu-weblinks', plugin_dir_url( __FILE__ ) . 'css/mu-weblinks.css', '', true );
 }
-add_action( 'wp_enqueue_scripts', 'mu_azindex_plugin_scripts' );
+add_action( 'wp_enqueue_scripts', 'mu_weblinks_plugin_scripts' );
 
 /**
  * Remove YoastSEO metaboxes from Profiles
  */
-function remove_yoast_metabox_mu_azindex() {
+function remove_yoast_metabox_mu_weblinks() {
 	remove_meta_box( 'wpseo_meta', 'mu-weblink', 'normal' );
 }
-add_action( 'add_meta_boxes', 'remove_yoast_metabox_mu_azindex', 11 );
+add_action( 'add_meta_boxes', 'remove_yoast_metabox_mu_weblinks', 11 );
 
 
 /**
@@ -112,7 +112,7 @@ add_action( 'add_meta_boxes', 'remove_yoast_metabox_mu_azindex', 11 );
  * @param array $columns The array of columns.
  * @return array
  */
-function mu_azindex_edit_columns( $columns ) {
+function mu_weblinks_edit_columns( $columns ) {
 	unset( $columns['wpseo-score'] );
 	unset( $columns['wpseo-score-readability'] );
 	unset( $columns['wpseo-title'] );
@@ -122,12 +122,12 @@ function mu_azindex_edit_columns( $columns ) {
 	unset( $columns['wpseo-linked'] );
 	unset( $columns['date'] );
 	unset( $columns['modified'] );
-	$columns['mu_azindex_link_url'] = __( 'URL', 'your_text_domain' );
-	$columns['date']                = 'Date';
-	$columns['modified']            = 'Modified';
+	$columns['mu_weblinks_link_url'] = 'URL';
+	$columns['date']                 = 'Date';
+	$columns['modified']             = 'Modified';
 	return $columns;
 }
-add_filter( 'manage_edit-mu-weblink_columns', 'mu_azindex_edit_columns' );
+add_filter( 'manage_edit-mu-weblink_columns', 'mu_weblinks_edit_columns' );
 
 /**
  * Getting the data to display for each column.
@@ -135,27 +135,27 @@ add_filter( 'manage_edit-mu-weblink_columns', 'mu_azindex_edit_columns' );
  * @param string  $column The string name of the column.
  * @param integer $post_id The integer Post ID.
  */
-function mu_azindex_custom_columns( $column, $post_id ) {
+function mu_weblinks_custom_columns( $column, $post_id ) {
 	switch ( $column ) {
-		case 'mu_azindex_link_url':
-			echo esc_attr( get_field( 'mu_azindex_link_url', $post_id ) );
+		case 'mu_weblinks_link_url':
+			echo esc_attr( get_field( 'mu_weblinks_link_url', $post_id ) );
 			break;
 	}
 }
-add_action( 'manage_mu-weblink_posts_custom_column', 'mu_azindex_custom_columns', 10, 2 );
+add_action( 'manage_mu-weblink_posts_custom_column', 'mu_weblinks_custom_columns', 10, 2 );
 
 /**
  * Redirect link page
  */
-function mu_azindex_redirect() {
+function mu_weblinks_redirect() {
 	if ( is_singular( 'mu-weblink' ) ) {
 		global $post;
 
-		wp_redirect( esc_url( get_field( 'mu_azindex_link_url', $post->ID ) ), 301 );
+		wp_redirect( esc_url( get_field( 'mu_weblinks_link_url', $post->ID ) ), 301 );
 		exit;
 	}
 }
-add_action( 'template_redirect', 'mu_azindex_redirect' );
+add_action( 'template_redirect', 'mu_weblinks_redirect' );
 
 /**
  * Add 'alpha' to the acceptable URL parameters
@@ -163,11 +163,11 @@ add_action( 'template_redirect', 'mu_azindex_redirect' );
  * @param array $vars The array of acceptable URL parameters.
  * @return array
  */
-function mu_azindex_url_parameters( $vars ) {
+function mu_weblinks_url_parameters( $vars ) {
 	$vars[] = 'alpha';
 	return $vars;
 }
-add_filter( 'query_vars', 'mu_azindex_url_parameters' );
+add_filter( 'query_vars', 'mu_weblinks_url_parameters' );
 
 /**
  * Shortcode to display the AZ Index Starting Letter list
@@ -176,11 +176,10 @@ add_filter( 'query_vars', 'mu_azindex_url_parameters' );
  * @param string $content The HTML string for the shortcode.
  * @return string
  */
-function mu_azindex_letters_shortcode( $atts, $content = null ) {
+function mu_weblinks_letters_shortcode( $atts, $content = null ) {
 	$data = shortcode_atts(
 		array(
 			'bg_image' => 'https://www.marshall.edu/wp-content/uploads/brand.jpg',
-
 		),
 		$atts
 	);
@@ -197,7 +196,7 @@ function mu_azindex_letters_shortcode( $atts, $content = null ) {
 	return $html;
 
 }
-add_shortcode( 'mu_azindex_letters', 'mu_azindex_letters_shortcode' );
+add_shortcode( 'mu_weblinks_letters', 'mu_weblinks_letters_shortcode' );
 
 /**
  * Shortcode to display the AZ Index
@@ -206,7 +205,7 @@ add_shortcode( 'mu_azindex_letters', 'mu_azindex_letters_shortcode' );
  * @param string $content The HTML string for the shortcode.
  * @return string
  */
-function mu_azindex_listings_shortcode( $atts, $content = null ) {
+function mu_weblinks_listings_shortcode( $atts, $content = null ) {
 	$data = shortcode_atts(
 		array(
 			'class' => '',
@@ -237,7 +236,7 @@ function mu_azindex_listings_shortcode( $atts, $content = null ) {
 		$html .= '<ul>';
 		while ( $alpha_query->have_posts() ) {
 			$alpha_query->the_post();
-			$html .= '<li><a href="' . get_field( 'mu_azindex_link_url', get_the_id() ) . '">' . get_the_title() . '</a></li>';
+			$html .= '<li><a href="' . get_field( 'mu_weblinks_link_url', get_the_id() ) . '">' . get_the_title() . '</a></li>';
 		}
 		$html .= '</ul>';
 	} else {
@@ -247,9 +246,9 @@ function mu_azindex_listings_shortcode( $atts, $content = null ) {
 	return $html;
 
 }
-add_shortcode( 'mu_azindex_listing', 'mu_azindex_listings_shortcode' );
+add_shortcode( 'mu_weblinks_listing', 'mu_weblinks_listings_shortcode' );
 
-// function mu_azindex_setup() {
+// function mu_weblinks_setup() {
 // 	$links_json  = file_get_contents( plugin_dir_path( __FILE__ ) . 'initial_links.json' );
 // 	$links_array = json_decode( $links_json, true );
 // 	require_once( ABSPATH . 'wp-admin/includes/post.php' );
@@ -262,7 +261,7 @@ add_shortcode( 'mu_azindex_listing', 'mu_azindex_listings_shortcode' );
 // 				'post_type'    => 'mu-weblink',
 // 				'post_status'  => 'publish',
 // 				'meta_input'   => array(
-// 					'mu_azindex_link_url' => $link['LinkUrl'],
+// 					'mu_weblinks_link_url' => $link['LinkUrl'],
 // 				),
 // 			);
 // 			wp_insert_post( $new_post );
@@ -270,6 +269,6 @@ add_shortcode( 'mu_azindex_listing', 'mu_azindex_listings_shortcode' );
 // 	}
 
 // }
-// add_shortcode( 'mu_azindex_insert', 'mu_azindex_setup' );
+// add_shortcode( 'mu_weblinks_insert', 'mu_weblinks_setup' );
 
 add_action( 'init', 'mu_program_page_type' );
