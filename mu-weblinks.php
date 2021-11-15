@@ -172,27 +172,28 @@ add_filter( 'query_vars', 'mu_weblinks_url_parameters' );
 /**
  * Shortcode to display the AZ Index Starting Letter list
  *
- * @param array  $atts The array of attributes included with the shortcode.
- * @param string $content The HTML string for the shortcode.
  * @return string
  */
-function mu_weblinks_letters_shortcode( $atts, $content = null ) {
-	$data = shortcode_atts(
-		array(
-			'bg_image' => 'https://www.marshall.edu/wp-content/uploads/brand.jpg',
-		),
-		$atts
-	);
+function mu_weblinks_letters_shortcode() {
 
-	global $wpdb;
+	if ( get_transient( 'mu_weblink_letters' ) ) {
+		$letters = get_transient( 'mu_weblink_letters' );
+	} else {
+		global $wpdb;
 
-	$letters = $wpdb->get_results( 'SELECT DISTINCT LEFT(post_title, 1) as letter FROM ' . $wpdb->get_blog_prefix() . 'posts WHERE post_type = "mu-weblink" ORDER BY letter;' );
+		$letters = $wpdb->get_results( 'SELECT DISTINCT LEFT(post_title, 1) as letter FROM ' . $wpdb->get_blog_prefix() . 'posts WHERE post_type = "mu-weblink" ORDER BY letter;' );
+
+		set_transient( 'mu_weblink_letters', $letters, 60 * 60 * 24 );
+	}
 
 	$html = '<div class="flex flex-wrap space-x-1 justify-center">';
 	foreach ( $letters as $letter ) {
-		$html .= '<a href="?alpha=' . $letter->letter . '" class="mb-1 text-base lg:text-lg mb-2 py-2 px-3 bg-gray-100 text-gray-700 hover:bg-white hover:text-gray-800 no-underline hover:underline">' . $letter->letter . '</a>';
+		$html .= '<a href="?alpha=' . $letter->letter . '" class="text-base lg:text-lg mb-2 py-2 px-3 bg-gray-100 text-gray-700 hover:bg-white hover:text-gray-800 no-underline hover:underline">' . $letter->letter . '</a>';
 	}
 	$html .= '</div>';
+
+	wp_reset_postdata();
+
 	return $html;
 
 }
@@ -243,32 +244,11 @@ function mu_weblinks_listings_shortcode( $atts, $content = null ) {
 		$html .= '<p>Sorry no links were found starting with the letter "' . esc_attr( $alpha_letter ) . '"';
 	}
 	$html .= '</div>';
-	return $html;
 
+	wp_reset_postdata();
+
+	return $html;
 }
 add_shortcode( 'mu_weblinks_listing', 'mu_weblinks_listings_shortcode' );
-
-// function mu_weblinks_setup() {
-// 	$links_json  = file_get_contents( plugin_dir_path( __FILE__ ) . 'initial_links.json' );
-// 	$links_array = json_decode( $links_json, true );
-// 	require_once( ABSPATH . 'wp-admin/includes/post.php' );
-// 	foreach ( $links_array as $link ) {
-
-// 		if ( ! post_exists( $link['LinkName'], '', '', 'mu-weblink', '' ) ) {
-// 			$new_post = array(
-// 				'post_title'   => $link['LinkName'],
-// 				'post_content' => '',
-// 				'post_type'    => 'mu-weblink',
-// 				'post_status'  => 'publish',
-// 				'meta_input'   => array(
-// 					'mu_weblinks_link_url' => $link['LinkUrl'],
-// 				),
-// 			);
-// 			wp_insert_post( $new_post );
-// 		}
-// 	}
-
-// }
-// add_shortcode( 'mu_weblinks_insert', 'mu_weblinks_setup' );
 
 add_action( 'init', 'mu_program_page_type' );
