@@ -216,7 +216,7 @@ function mu_weblinks_listings_shortcode( $atts, $content = null ) {
 	);
 
 	if ( get_query_var( 'alpha' ) ) {
-		$alpha_letter = get_query_var( 'alpha' );
+		$alpha_letter = esc_attr( get_query_var( 'alpha' ) );
 	} else {
 		$alpha_letter = 'A';
 	}
